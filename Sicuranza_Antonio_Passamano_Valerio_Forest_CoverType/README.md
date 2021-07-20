@@ -54,8 +54,11 @@ The Cover_Type variable, which is the target value, is distributed as follows:
 • Ponderosa Pine: 6.15%
 
 • Krummholz: 3.53%
+
 • Douglas-fir: 2.99%
+
 • Aspen: 1.63%
+
 • Cottonwood/Willow: 0.47%
 
 
