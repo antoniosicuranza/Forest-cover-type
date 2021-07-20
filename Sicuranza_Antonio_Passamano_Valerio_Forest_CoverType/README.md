@@ -15,7 +15,9 @@ The dataset, although static, was used to simulate data streams for training and
 The goal of the project was to evaluate the performance of classifiers in classifying real-time data streams. To do this we made use of the Python Scikit-multiflow library which allowed us to use a static dataset contained in a .csv file as a data stream.
 Among the classifiers in the library have been selected:
 -**OzaBag Classifier**
+
 -**SAM KNN Classifier**
+
 -**Streaming Random Patches Classifier**
 
 After analyzing the results obtained, we used Undersampling and Oversampling techniques to improve performance and then re-run the classifiers by simulating the data stream again.
@@ -85,6 +87,12 @@ There is also a strong correlation between the Cover_Type and the combination of
 # Online-learning
 **We do not report the results obtained with the various classifiers here. They are insted reported in the main document**. 
 The online phase was performed using python's scikit-multiflow library to simulate data flow, to collect performance information, and to run the three selected classifiers:
+
+-**OzaBag Classifier**
+
+-**SAM KNN Classifier**
+
+-**Streaming Random Patches Classifier**
 
 
 # Batch-learning
