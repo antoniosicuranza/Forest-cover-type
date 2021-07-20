@@ -57,12 +57,12 @@ The Cover_Type variable, which is the target value, is distributed as follows:
 
 
 <p align="center">
-    <img src="./Figures/README/distribution.jpg" alt="Distribution" />
+    <img src="./Figures/README/distribution.png" alt="Distribution" />
 </p>
 
 Another problem is highlighted by the Pearson Correlation Coefficient which indicates howmuch a variable influences the result of the prediction:
 <p align="center">
-    <img src="./Figures/README/pearson.jpg" alt="Pearson Correlation Coefficient" />
+    <img src="./Figures/README/pearson.png" alt="Pearson Correlation Coefficient" />
 </p>
 
 The dark boxes indicate a greater influence of the data, as you can see a particularly dark
