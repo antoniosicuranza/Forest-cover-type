@@ -14,6 +14,7 @@ The dataset, although static, was used to simulate data streams for training and
 # Introduction
 The goal of the project was to evaluate the performance of classifiers in classifying real-time data streams. To do this we made use of the Python Scikit-multiflow library which allowed us to use a static dataset contained in a .csv file as a data stream.
 Among the classifiers in the library have been selected:
+
 -**OzaBag Classifier**
 
 -**SAM KNN Classifier**
