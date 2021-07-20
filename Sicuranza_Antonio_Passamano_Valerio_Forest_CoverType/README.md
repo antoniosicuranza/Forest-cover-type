@@ -75,6 +75,7 @@ There is also a strong correlation between the Cover_Type and the combination of
 <p align="center">
     <img src="./Figures/README/soil.png" alt="Wilderness_Type and Soil_Type correlation" />
 </p>
+
 # Online-learning
 **We do not report the results obtained with the various classifiers here. They are insted reported in the main document**. 
 The online phase was performed using python's scikit-multiflow library to simulate data flow, to collect performance information, and to run the three selected classifiers:
