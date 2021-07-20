@@ -48,8 +48,11 @@ Each tuple is made up of 54 attributes, which we are now going to list:
 The dataset has various problems that have been analyzed in an attempt to improve the performance of the predictors.
 The Cover_Type variable, which is the target value, is distributed as follows:
 • Lodgepole Pine: 48.76%
+
 • Spruce/Fir: 36.46%
+
 • Ponderosa Pine: 6.15%
+
 • Krummholz: 3.53%
 • Douglas-fir: 2.99%
 • Aspen: 1.63%
