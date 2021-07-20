@@ -48,7 +48,7 @@ Each tuple is made up of 54 attributes, which we are now going to list:
     - Douglas-fir.
     - Krummholz.
 
-The dataset has various problems that have been analyzed in an attempt to improve the performance of the predictors.
+The dataset has various problems that have </br> been analyzed in an attempt to improve the performance of the predictors.
 The Cover_Type variable, which is the target value, is distributed as follows:
 • Lodgepole Pine: 48.76%
 
