@@ -86,7 +86,7 @@ There is also a strong correlation between the Cover_Type and the combination of
 </p>
 
 # Online-learning
-**We do not report the results obtained with the various classifiers here. They are insted reported in the main document**. 
+**The results are reported in the main document.** 
 The online phase was performed using python's scikit-multiflow library to simulate data flow, to collect performance information, and to run the three selected classifiers:
 
 -**OzaBag Classifier**
@@ -97,7 +97,7 @@ The online phase was performed using python's scikit-multiflow library to simula
 
 
 # Batch-learning
-**We do not report the results obtained with the various classifiers here. They are insted reported in the main document.** 
+**The results are reported in the main document.** 
 As we have seen previously, the dataset is very unbalanced, during the online phase it is not
 possible to apply balancing techniques as the data arrives in the form of data streams, in the batch
 phase instead the data are stored statically and it is therefore possible to apply on the balancing
